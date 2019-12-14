@@ -1,0 +1,12 @@
+#服务注册到eureka服务器
+spring:
+  application:
+    name: springcloud-service-admin
+
+server:
+  port: 8762
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
