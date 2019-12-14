@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-dependencies/springcloud-dependencies.iml" filepath="$PROJECT_DIR$/springcloud-dependencies/springcloud-dependencies.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" filepath="$PROJECT_DIR$/springcloud-eureka/springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-service-admin/springcloud-service-admin.iml" filepath="$PROJECT_DIR$/springcloud-service-admin/springcloud-service-admin.iml" />
     </modules>
   </component>
 </project>

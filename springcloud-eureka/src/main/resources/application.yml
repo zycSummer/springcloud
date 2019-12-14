@@ -1,4 +1,4 @@
-#eureka服务端
+#eureka服务器
 spring:
   application:
     name: springcloud-eureka
