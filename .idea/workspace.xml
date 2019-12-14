@@ -2,36 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e22aa8ea-a883-437f-9979-5e65962244cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-dependencies/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-eureka/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-service-admin/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/read.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/springcloud-web-admin-ribbon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/WebAdminRibbonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/config/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/read.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/springcloud-web-admin-feign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/springcloud-web-admin-ribbon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/WebAdminFeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/target/classes/com/zyc/summer/springcloud/web/admin/ribbon/WebAdminRibbonApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/target/classes/com/zyc/summer/springcloud/web/admin/ribbon/config/RestTemplateConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/target/classes/com/zyc/summer/springcloud/web/admin/ribbon/controller/AdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-web-admin-feign/target/classes/com/zyc/summer/springcloud/web/admin/ribbon/service/AdminService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-service-admin/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-service-admin/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/springcloud-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-eureka/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-service-admin/target/" />
     <ignored path="$PROJECT_DIR$/springcloud-web-admin-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-web-admin-feign/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,57 +59,62 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/service/AdminService.java">
+        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="897">
+              <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/controller/AdminController.java">
+        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/WebAdminFeignApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/read.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="8" selection-start-column="8" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud-service-admin/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/WebAdminRibbonApplication.java">
+        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+            <state relative-caret-position="46">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/controller/AdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#720#721#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,13 +149,18 @@
         <option value="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/WebAdminRibbonApplication.java" />
         <option value="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/config/RestTemplateConfiguration.java" />
-        <option value="$PROJECT_DIR$/springcloud-service-admin/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/service/AdminService.java" />
         <option value="$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/controller/AdminController.java" />
         <option value="$PROJECT_DIR$/springcloud-dependencies/read.md" />
         <option value="$PROJECT_DIR$/springcloud-eureka/read.md" />
         <option value="$PROJECT_DIR$/springcloud-service-admin/read.md" />
         <option value="$PROJECT_DIR$/springcloud-web-admin-ribbon/read.md" />
+        <option value="$PROJECT_DIR$/springcloud-web-admin-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/WebAdminFeignApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/springcloud-service-admin/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -218,7 +229,91 @@
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-service-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-service-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-service-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-service-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud-web-admin-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,7 +329,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-service-admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -249,6 +344,7 @@
       <recent name="E:\IDEA\code\springcloud\springcloud-web-admin-ribbon\src\main\java\com\zyc\summer\springcloud\web" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\code\springcloud" />
       <recent name="E:\IDEA\code\springcloud\springcloud-service-admin" />
       <recent name="E:\IDEA\code\springcloud\springcloud-eureka" />
       <recent name="E:\IDEA\code\springcloud\springcloud-web-admin-ribbon" />
@@ -270,9 +366,9 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.19945355" />
+    <option name="contentProportion" value="0.26229507" />
   </component>
-  <component name="RunManager" selected="Spring Boot.WebAdminRibbonApplication">
+  <component name="RunManager" selected="Spring Boot.WebAdminFeignApplication">
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-eureka" />
       <extension name="coverage">
@@ -294,6 +390,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebAdminFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-web-admin-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zyc.summer.springcloud.web.admin.ribbon.WebAdminFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="springcloud-web-admin-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyc.summer.springcloud.web.admin.feign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zyc.summer.springcloud.web.admin.feign.WebAdminFeignApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WebAdminRibbonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springcloud-web-admin-ribbon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zyc.summer.springcloud.web.admin.ribbon.WebAdminRibbonApplication" />
@@ -305,9 +422,11 @@
       <item itemvalue="Spring Boot.ServiceAdminApplication" />
       <item itemvalue="Spring Boot.WebAdminRibbonApplication" />
       <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.WebAdminFeignApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.WebAdminFeignApplication" />
         <item itemvalue="Spring Boot.EurekaApplication" />
       </list>
     </recent_temporary>
@@ -323,7 +442,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576311686318</updated>
       <workItem from="1576311687998" duration="3355000" />
-      <workItem from="1576315153811" duration="6019000" />
+      <workItem from="1576315153811" duration="8028000" />
     </task>
     <task id="LOCAL-00001" summary="springcloud-service注册到eureka服务器">
       <created>1576319265959</created>
@@ -332,17 +451,23 @@
       <option name="project" value="LOCAL" />
       <updated>1576319265959</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="springcloud-ribbon(创建服务消费者)">
+      <created>1576327041706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576327041706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9374000" />
+    <option name="totallyTimeSpent" value="11383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22855228" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27479893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -350,7 +475,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.49008498" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" visible="true" weight="0.49008498" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -362,10 +487,10 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.32719547" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -419,7 +544,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="springcloud-service注册到eureka服务器" />
-    <option name="LAST_COMMIT_MESSAGE" value="springcloud-service注册到eureka服务器" />
+    <MESSAGE value="springcloud-ribbon(创建服务消费者)" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud-ribbon(创建服务消费者)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -470,13 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="68" column="74" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/config/RestTemplateConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
@@ -506,16 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/service/AdminService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -552,13 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-service-admin/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-service-admin/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -569,16 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/controller/AdminController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/read.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -586,6 +678,95 @@
             <caret column="8" selection-start-column="8" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-service-admin/target/classes/com/zyc/summer/springcloud/admin/controller/AdminController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#739#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/src/main/java/com/zyc/summer/springcloud/web/admin/ribbon/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-ribbon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="68" column="74" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/config/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-web-admin-feign/src/main/java/com/zyc/summer/springcloud/web/admin/feign/WebAdminFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud-service-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
