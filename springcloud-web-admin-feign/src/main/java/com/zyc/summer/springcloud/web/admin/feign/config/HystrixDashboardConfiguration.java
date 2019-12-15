@@ -1,19 +1,12 @@
-package com.zyc.summer.springcloud.web.admin.ribbon.config;
+package com.zyc.summer.springcloud.web.admin.feign.config;
 
 import com.netflix.hystrix.contrib.metrics.eventstream.HystrixMetricsStreamServlet;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
-import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.web.client.RestTemplate;
 
 @Configuration
-public class RestTemplateConfiguration {
-    @Bean
-    @LoadBalanced //注解表明开启负载均衡功能
-    public RestTemplate restTemplate() {
-        return new RestTemplate();
-    }
+public class HystrixDashboardConfiguration {
 
     @Bean
     public ServletRegistrationBean getServlet() {
