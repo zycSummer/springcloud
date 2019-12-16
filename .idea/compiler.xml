@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-zuul" />
         <module name="springcloud-web-admin-feign" />
         <module name="springcloud-service-admin" />
         <module name="springcloud-eureka" />
@@ -18,6 +19,7 @@
       <module name="springcloud-service-admin" target="1.8" />
       <module name="springcloud-web-admin-feign" target="1.8" />
       <module name="springcloud-web-admin-ribbon" target="1.8" />
+      <module name="springcloud-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -26,6 +28,7 @@
       <module name="springcloud-service-admin" options="-parameters" />
       <module name="springcloud-web-admin-feign" options="-parameters" />
       <module name="springcloud-web-admin-ribbon" options="-parameters" />
+      <module name="springcloud-zuul" options="-parameters" />
     </option>
   </component>
 </project>
